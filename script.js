@@ -20,3 +20,6 @@ for(let key in arr){
 for(let i of arr){
     console.log(i);
 }
+let heading=document.getElementById("heading1");
+console.log(heading);
+console.dir(heading);
