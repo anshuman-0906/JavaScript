@@ -1,1 +1,1 @@
-# This repo contains JavaScript code written while learning.
+# This repo contains JavaScript code written while learning .
