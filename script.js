@@ -23,3 +23,6 @@ for(let i of arr){
 let heading=document.getElementById("heading1");
 console.log(heading);
 console.dir(heading);
+
+let qry=document.querySelector(".lrn");
+console.log(qry);
