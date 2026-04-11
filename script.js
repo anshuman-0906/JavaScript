@@ -24,5 +24,5 @@ let heading=document.getElementById("heading1");
 console.log(heading);
 console.dir(heading);
 
-let qry=document.querySelector(".lrn");
-console.log(qry);
+let qry=document.querySelector("#name19");
+console.dir(qry);
